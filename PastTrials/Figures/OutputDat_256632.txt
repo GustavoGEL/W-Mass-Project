@@ -1,0 +1,5 @@
+average rest mass[MeV/c²],standard deviation[MeV/c²],number of fitted datapoints,time of that the program ran[h:m:s]
+1140282.5639338957
+72354903.52458592
+256632
+0:01:22.088456
