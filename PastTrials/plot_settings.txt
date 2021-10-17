@@ -1,0 +1,54 @@
+# When just considering a plot, i.e. no errors, just one plot in the figure
+# Axis title/labels
+font=Times New Roman
+size=26
+note=put units in parenthesis, i.e. Z (nm) and in fugure caption explain what is Z
+
+# Axis numbers
+font=Times New Roman
+size=24
+note=Consider 4-6 ticks, preferably 5 ticks
+
+# Extra notes:
+# Legend - Off for images, but useful if can get two plots (one with and one without to know what is going on on both and have the freedom to use the one without without mixing up the data points)
+# Consider using different colors and shapes, so that people with B/W printers can also properly see the data
+# Consider the figure to be closed, i.e. all borders surrounding the plot show the ticks, but just labels on left and bottom sides
+
+                                                      ticks, subticks...
+                                     __________________________________________________
+                                    |                                                  |
+                                    |                                                  |
+                                    |                                                  |
+                                    |                                                  |
+labels, numbers, ticks, subticks... |                                                  |
+                                    |                                                  |    ticks, subticks...
+                                    |                                                  |
+                                    |                                                  |
+                                    |                                                  |
+                                    |                                                  |
+                                    |                                                  |
+                                    |                                                  |
+                                     __________________________________________________
+                                              labels, numbers, ticks, subticks...
+
+# No titles for the figures that will be used in articles, but may add to the second version for personal/arrangement use.
+# Aside of the 4-6 ticks, can have smaller ticks (without numbers) to facilitate analysis and interpretation,
+i.e.         |                     |
+             |          |          |
+         -----------------------------
+             10                    20
+         tick     subtick      tick
+
+# Thickness of border around plots: 1.5
+# Color: black
+# For axis labels can also use a small description of the variables if space, i.e. Wavelength, λ (nm)
+
+# When considering two plots in a figure, i.e. plot and the residuals
+# Same, for main plot
+# For residual plot,
+# Same about size and font. Much smaller height (at least half of the main plot) and dotted horizontal lines to facilitate analysis. 
+
+# Plots from past years using Origin:
+D:\University\Files - University of Warwick\Physics - 3rd Year (2020-2021)\PX428 - Physics laboratory\STM\Day 3.5 (Monday)
+or
+I:\DiskH\University (Back Up 18-Jun-2021)\Files - University of Warwick\Physics - 3rd Year (2020-2021)\PX428 - Physics laboratory\STM\Day 3.5 (Monday)
