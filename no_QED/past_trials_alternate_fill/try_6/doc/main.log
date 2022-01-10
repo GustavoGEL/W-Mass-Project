@@ -1,0 +1,475 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.7.16)  10 JAN 2022 14:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+(/opt/tex/texlive2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/opt/tex/texlive2020/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+(/opt/tex/texlive2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/tex/texlive2020/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/opt/tex/texlive2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/tex/texlive2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/opt/tex/texlive2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(/opt/tex/texlive2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+(/opt/tex/texlive2020/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+
+(/opt/tex/texlive2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen137
+\ar@mcellbox=\box45
+\extrarowheight=\dimen138
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
+))
+(/opt/tex/texlive2020/texmf-dist/tex/latex/psnfss/helvet.sty
+Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
+)
+(/opt/tex/texlive2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/opt/tex/texlive2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/opt/tex/texlive2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count175
+\Gm@cntv=\count176
+\c@Gm@tempcnt=\count177
+\Gm@bindingoffset=\dimen139
+\Gm@wd@mp=\dimen140
+\Gm@odd@mp=\dimen141
+\Gm@even@mp=\dimen142
+\Gm@layoutwidth=\dimen143
+\Gm@layoutheight=\dimen144
+\Gm@layouthoffset=\dimen145
+\Gm@layoutvoffset=\dimen146
+\Gm@dimlist=\toks17
+
+
+! Package keyval Error: a4 undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1005 \ProcessOptionsKV[p]{Gm}
+                               %
+? 
+) (/opt/tex/texlive2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count178
+\l__pdf_internal_box=\box47
+)
+No file main.aux.
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Trying to load font information for OT1+phv on input line 1
+3.
+(/opt/tex/texlive2020/texmf-dist/tex/latex/psnfss/ot1phv.fd
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 21.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 24.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 27.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 47.
+
+) (/opt/tex/texlive2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count179
+\scratchdimen=\dimen147
+\scratchbox=\box48
+\nofMPsegments=\count180
+\nofMParguments=\count181
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count182
+\MPscratchDim=\dimen148
+\MPnumerator=\count183
+\makeMPintoPDFobject=\count184
+\everyMPtoPDFconversion=\toks19
+) (/opt/tex/texlive2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/opt/tex/texlive2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(43.36243pt, 527.57014pt, 43.36243pt)
+* v-part:(T,H,B)=(43.36243pt, 708.24513pt, 43.36243pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=527.57014pt
+* \textheight=708.24513pt
+* \oddsidemargin=-28.90756pt
+* \evensidemargin=-28.90756pt
+* \topmargin=-65.90756pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+
+Overfull \hbox (353.60374pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 Absolute path to fig-ure: /home/physics/phuxdp/Desktop/PX402 Ph
+ysics Project/WBosonProject/noQED/plots/muPT[]80.36010913[]2.07041274[]between[
+]78[]and[]92.png 
+ []
+
+
+Overfull \hbox (33.10072pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 X[]energ[]vls = [30.1, 30.299999999999997, 30.5, 30.70000000000
+0003, 30.9, 31.1, 31.299999999999997,
+ []
+
+
+Overfull \hbox (73.23697pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 47.300000000000004, 47.5, 47.7, 47.9, 48.1, 48.300000000000004,
+ 48.5, 48.7, 48.9, 49.1, 49.300000000000004,
+ []
+
+
+Overfull \hbox (47.98586pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 Y[]model[]bin[]cnts = [313.2992858886719, 106.21347045898438, 3
+45.7534484863281, 282.5838317871094,
+ []
+
+
+Overfull \hbox (77.03947pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 83.59107971191406, 193.91091918945312, 288.21978759765625, 23.8
+46467971801758, 176.83392333984375,
+ []
+
+
+Overfull \hbox (50.35179pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 279.2972106933594, 58.44918441772461, 83.54625701904297, 255.63
+28582763672, 381.4120788574219,
+ []
+
+
+Overfull \hbox (50.35179pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 181.0519256591797, 89.92611694335938, 36.13596725463867, 116.27
+18505859375, 47.71955490112305,
+ []
+
+
+Overfull \hbox (57.02371pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 330.4010925292969, 58.3175048828125, 407.54644775390625, 219.49
+285888671875, 296.8296203613281,
+ []
+
+
+Overfull \hbox (63.69563pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 95.50274658203125, 239.26370239257812, 362.90301513671875, 425.
+0135498046875, 68.96009826660156,
+ []
+
+
+Overfull \hbox (57.02371pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 65.85767364501953, 69.5289077758789, 203.36705017089844, 109.03
+61557006836, 486.18792724609375,
+ []
+
+
+Overfull \hbox (57.02371pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 161.3716583251953, 136.0915985107422, 190.7365264892578, 414.15
+39001464844, 120.77681732177734,
+ []
+
+
+Overfull \hbox (77.03947pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 153.4157257080078, 116.39080047607422, 150.96006774902344, 356.
+43096923828125, 215.05323791503906,
+ []
+
+
+Overfull \hbox (57.02371pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 310.41192626953125, 577.3638916015625, 315.0453186035156, 597.8
+947143554688, 420.2438049316406,
+ []
+
+
+Overfull \hbox (70.36755pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 112.79922485351562, 265.34747314453125, 120.4859390258789, 354.
+1427307128906, 171.23988342285156,
+ []
+
+
+Overfull \hbox (57.02371pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 429.74530029296875, 740.4324340820312, 269.5274658203125, 98.54
+425811767578, 343.9665222167969,
+ []
+
+
+Overfull \hbox (70.36755pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 439.8898620605469, 160.5813751220703, 222.04930114746094, 369.6
+9537353515625, 200.85897827148438,
+ []
+
+
+Overfull \hbox (63.69563pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 269.5789794921875, 328.0943908691406, 210.26858520507812, 223.1
+7535400390625, 321.5649719238281,
+ []
+
+
+Overfull \hbox (70.36755pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 293.3818664550781, 352.95892333984375, 465.11041259765625, 347.
+0108947753906, 409.08746337890625,
+ []
+
+
+Overfull \hbox (77.03947pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 187.93934631347656, 59.240638732910156, 409.1673889160156, 113.
+01419067382812, 175.86167907714844,
+ []
+
+
+Overfull \hbox (43.67987pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 71.2312240600586, 315.273681640625, 128.443115234375, 168.57762
+145996094, 235.40316772460938,
+ []
+
+
+Overfull \hbox (77.03947pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 132.71621704101562, 232.0699920654297, 344.87786865234375, 20.7
+46023178100586, 384.71148681640625,
+ []
+
+
+Overfull \hbox (63.69563pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 218.5894317626953, 187.9745330810547, 158.18234252929688, 25.81
+5486907958984, 256.2192077636719,
+ []
+
+
+Overfull \hbox (63.69563pt too wide) in paragraph at lines 22--33
+\OT1/phv/m/n/12 223.65428161621094, 122.94083404541016, 154.239501953125, 62.06
+776428222656, 32.254478454589844,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--33
+
+ []
+
+[1
+
+{/opt/tex/texlive2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+! Missing $ inserted.
+<inserted text> 
+                $
+l.35     Uncertainty [GeV/c^
+                            2]: 0.0\\
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.36 
+     
+? 
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--36
+
+ []
+
+</home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plots/m
+uPT_80.36010913_2.07041274_between_78_and_92.png, id=11, 1923.185pt x 1055.945p
+t>
+File: /home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/pl
+ots/muPT_80.36010913_2.07041274_between_78_and_92.png Graphic file (type png)
+<use /home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plo
+ts/muPT_80.36010913_2.07041274_between_78_and_92.png>
+Package pdftex.def Info: /home/physics/phuxdp/Desktop/PX402 Physics Project/WBo
+sonProject/noQED/plots/muPT_80.36010913_2.07041274_between_78_and_92.png  used 
+on input line 39.
+(pdftex.def)             Requested size: 527.57014pt x 289.66876pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 44.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...e of hypothesis fit: 146.67302655954285. }
+                                                  
+? 
+! Extra }, or forgotten $.
+\sbox  ...box {\color@setgroup #2\color@endgroup }
+                                                  
+l.44 ...e of hypothesis fit: 146.67302655954285. }
+                                                  
+? 
+! Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...e of hypothesis fit: 146.67302655954285. }
+                                                  
+? 
+! Missing } inserted.
+<inserted text> 
+                }
+l.44 ...e of hypothesis fit: 146.67302655954285. }
+                                                  
+? 
+</home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plots/c
+hi_square_fits_muPT_80.36010913_2.07041274_between_78_and_92.png, id=12, 462.52
+8pt x 346.896pt>
+File: /home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/pl
+ots/chi_square_fits_muPT_80.36010913_2.07041274_between_78_and_92.png Graphic f
+ile (type png)
+<use /home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plo
+ts/chi_square_fits_muPT_80.36010913_2.07041274_between_78_and_92.png>
+Package pdftex.def Info: /home/physics/phuxdp/Desktop/PX402 Physics Project/WBo
+sonProject/noQED/plots/chi_square_fits_muPT_80.36010913_2.07041274_between_78_a
+nd_92.png  used on input line 52.
+(pdftex.def)             Requested size: 527.57014pt x 395.69844pt.
+</home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plots/o
+ptimum_muPT_80.36010913_2.07041274_between_78_and_92.png, id=14, 1923.185pt x 1
+055.945pt>
+File: /home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/pl
+ots/optimum_muPT_80.36010913_2.07041274_between_78_and_92.png Graphic file (typ
+e png)
+<use /home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plo
+ts/optimum_muPT_80.36010913_2.07041274_between_78_and_92.png>
+Package pdftex.def Info: /home/physics/phuxdp/Desktop/PX402 Physics Project/WBo
+sonProject/noQED/plots/optimum_muPT_80.36010913_2.07041274_between_78_and_92.pn
+g  used on input line 59.
+(pdftex.def)             Requested size: 527.57014pt x 289.66876pt.
+
+Underfull \hbox (badness 1325) in paragraph at lines 60--60
+[]\OT1/phv/m/n/12 Figure 3: \OT1/phv/m/n/10.95 Data and op-ti-mum fit with $\OM
+L/cmm/m/it/10.95 ^^_[] \OT1/cmr/m/n/10.95 = 2\OML/cmm/m/it/10.95 :\OT1/cmr/m/n/
+10.95 1776366388229618$\OT1/phv/m/n/10.95 . Used the hy-poth-e-sis mass of
+ []
+
+[2 </home/physics/phuxdp/Desktop/PX402 Physics Project/WBosonProject/noQED/plot
+s/muPT_80.36010913_2.07041274_between_78_and_92.png>] [3 </home/physics/phuxdp/
+Desktop/PX402 Physics Project/WBosonProject/noQED/plots/chi_square_fits_muPT_80
+.36010913_2.07041274_between_78_and_92.png>] [4 </home/physics/phuxdp/Desktop/P
+X402 Physics Project/WBosonProject/noQED/plots/optimum_muPT_80.36010913_2.07041
+274_between_78_and_92.png>] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1836 strings out of 480608
+ 28847 string characters out of 5875628
+ 271884 words of memory out of 5000000
+ 17733 multiletter control sequences out of 15000+600000
+ 546182 words of font info for 50 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,6n,34p,1994b,251s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/opt/tex/texlive2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</opt/tex/texliv
+e2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/tex/texlive202
+0/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></opt/tex/texlive2020/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></opt/tex/texlive2020/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr12.pfb></opt/tex/texlive2020/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmr8.pfb></opt/tex/texlive2020/texmf-dist/fonts/t
+ype1/urw/helvetic/uhvb8a.pfb></opt/tex/texlive2020/texmf-dist/fonts/type1/urw/h
+elvetic/uhvr8a.pfb>
+Output written on main.pdf (4 pages, 275167 bytes).
+PDF statistics:
+ 51 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+
