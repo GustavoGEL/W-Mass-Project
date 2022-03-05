@@ -1,0 +1,18 @@
+cd 1_Reference; python3 Bare_1_photon.py;
+cd .. ; cd 2_BornMuon; python3 Born_1_photon.py;
+cd .. ; cd 3_bare_and_photos_weight; python3 Bare_1_photon_photos.py;
+cd .. ; cd 4_bare_and_herwig; python3 Bare_1_photon_herwig.py;
+cd .. ; cd 5_born_and_photos; python3 Born_1_photon_photos.py;
+cd .. ; cd 6_born_and_herwig; python3 Born_1_photon_herwig.py;
+cd .. ; cd 7_bare_and_photos_real_1; python3 Bare_1_photon_photos_real_1.py;
+cd .. ; cd 8_born_and_photos_real_1; python3 Born_1_photon_photos_real_1.py;
+cd .. ; cd 9_bare_and_photos_real_10; python3 Bare_1_photon_photos_real_10.py;
+cd .. ; cd 10_born_and_photos_real_10; python3 Born_1_photon_photos_real_10.py;
+cd .. ; cd 11_bare_and_herwig_real_1; python3 Bare_1_photon_herwig_real_1.py;
+cd .. ; cd 12_born_and_herwig_real_1; python3 Born_1_photon_herwig_real_1.py;
+cd .. ; cd 13_bare_and_herwig_real_10; python3 Bare_1_photon_herwig_real_10.py;
+cd .. ; cd 14_born_and_herwig_real_10; python3 Born_1_photon_herwig_real_10.py;
+cd .. ; cd 15_bare_real_1; python3 Bare_1_photon_real_1.py;
+cd .. ; cd 16_born_real_1; python3 Born_1_photon_real_1.py;
+cd .. ; cd 17_bare_real_10; python3 Bare_1_photon_real_10.py;
+cd .. ; cd 18_born_real_10; python3 Born_1_photon_real_10.py;
