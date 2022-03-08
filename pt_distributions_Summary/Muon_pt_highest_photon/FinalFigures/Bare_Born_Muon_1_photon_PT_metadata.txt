@@ -1,0 +1,23 @@
+FinalFigures/Bare_Born_Muon_1_photon_PT_report.png and FinalFigures/Bare_Born_Muon_1_photon_PT_summary.png
+Mean [GeV], uncertainty [GeV], Min mass [GeV], Max mass [GeV]
+80.40505846294813, 0.007801191844551619, 80.39659, 80.41304
+Average normalised residual, Uncertainty of norm res, minimum normalised residual, maximum normalised residual
+-0.01062741175870971, 0.46890148736295006, -0.5240385487704329, 0.4786427221674346
+0: 'Born and herwig real 0.10' as '1bh_0.10', with 80.39749\pm0.01666, norm residual of '-0.4542894926847983' and chi squared fit of 1405.311666313421
+1: 'Born and herwig real 0.01' as '1bh_0.01', with 80.39748\pm0.01666, norm residual of '-0.45488973278102723' and chi squared fit of 1369.6387387790023
+2: 'Born and herwig' as '1bh', with 80.39733\pm0.01661, norm residual of '-0.4652897620792832' and chi squared fit of 416.2991949659785
+3: 'Born and photos real 0.10' as '1bp_0.10', with 80.39749\pm0.01666, norm residual of '-0.4542894926847983' and chi squared fit of 1405.311666313421
+4: 'Born and photos real 0.01' as '1bp_0.01', with 80.39748\pm0.01666, norm residual of '-0.45488973278102723' and chi squared fit of 1369.6387387790023
+5: 'Born and photos' as '1bp', with 80.39749\pm0.01666, norm residual of '-0.4542894926847983' and chi squared fit of 1365.3148925155087
+6: 'Born real 0.10' as '1b_0.10', with 80.39661\pm0.01616, norm residual of '-0.5228009250085431' and chi squared fit of 114.43054142761845
+7: 'Born real 0.01' as '1b_0.01', with 80.39659\pm0.01616, norm residual of '-0.5240385487704329' and chi squared fit of 114.12774046092231
+8: 'Born muon (Reference)' as '1b', with 80.3966\pm0.01616, norm residual of '-0.5234197368890483' and chi squared fit of 114.2493652586057
+9: 'Bare and herwig real 0.10' as '1ah_0.10', with 80.41303\pm0.01698, norm residual of '0.4694662574718906' and chi squared fit of 871.689183965067
+10: 'Bare and herwig real 0.01' as '1ah_0.01', with 80.41304\pm0.017, norm residual of '0.4695021795212744' and chi squared fit of 871.7166015317366
+11: 'Bare and herwig' as '1ah', with 80.41304\pm0.017, norm residual of '0.4695021795212744' and chi squared fit of 871.3541223071006
+12: 'Bare and photos real 0.10' as '1ap_0.10', with 80.41228\pm0.01703, norm residual of '0.42404797720857396' and chi squared fit of 350.12675678524704
+13: 'Bare and photos real 0.01' as '1ap_0.01', with 80.41229\pm0.01704, norm residual of '0.4243859772221355' and chi squared fit of 350.6224176198333
+14: 'Bare and photos' as '1ap', with 80.41229\pm0.01704, norm residual of '0.4243859772221355' and chi squared fit of 350.63469452628715
+15: 'Bare real 0.10' as '1a_0.10', with 80.41297\pm0.01654, norm residual of '0.4783275122048288' and chi squared fit of 315.261626935855
+16: 'Bare real 0.01' as '1a_0.01', with 80.41298\pm0.01655, norm residual of '0.4786427221674346' and chi squared fit of 315.5830815214132
+17: 'Bare muon (Reference)' as '1a', with 80.41298\pm0.01655, norm residual of '0.4786427221674346' and chi squared fit of 315.5360144301279

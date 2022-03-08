@@ -1,0 +1,8 @@
+FinalFigures/Bare_Muon_0_photon_PT_regardless_report.png and FinalFigures/Bare_Muon_0_photon_PT_regardless_summary.png
+Mean [GeV], uncertainty [GeV], Min mass [GeV], Max mass [GeV]
+80.37343575422086, 0.0025106731078912803, 80.37154, 80.37698
+Average normalised residual, Uncertainty of norm res, minimum normalised residual, maximum normalised residual
+-0.0004019021248556724, 0.2082490787061409, -0.15745466950732429, 0.29388439296343555
+0: 'Bare and herwig' as '0ah', with 80.37154\pm0.01204, norm residual of '-0.15745466950732429' and chi squared fit of 0.552276621180012
+1: 'Bare and photos' as '0ap', with 80.37178\pm0.01203, norm residual of '-0.13763542983067825' and chi squared fit of 0.534243387112457
+2: 'Bare muon (Reference)' as '0a', with 80.37698\pm0.01206, norm residual of '0.29388439296343555' and chi squared fit of 0.03824151148052093

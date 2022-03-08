@@ -1,0 +1,15 @@
+pt and highest photon
+
+Case: Optimal mass [GeV/c^2], Chi square value
+DoF(Degrees of Freedom, n hist bins − parms f it) = 98
+$P_{T, Born Muon}+P_{T, Highest Photon}$\nW mass|||||Mass (GeV)|||||Case
+
+Born muon (Reference);;1b: 80.3966±0.01616, 114.2493652586057
+Born real 0.01;;1b_0.01: 80.39659±0.01616, 114.12774046092231
+Born real 0.10;;1b_0.10: 80.39661±0.01616, 114.43054142761845
+Born and photos;;1bp: 80.39749±0.01666, 1365.3148925155087
+Born and photos real 0.01;;1bp_0.01: 80.39748±0.01666, 1369.6387387790023
+Born and photos real 0.10;;1bp_0.10: 80.39749±0.01666, 1405.311666313421
+Born and herwig;;1bh: 80.39733±0.01661, 416.2991949659785
+Born and herwig real 0.01;;1bh_0.01: 80.39748±0.01666, 1369.6387387790023
+Born and herwig real 0.10;;1bh_0.10: 80.39749±0.01666, 1405.311666313421
