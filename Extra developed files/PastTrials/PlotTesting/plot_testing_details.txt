@@ -1,0 +1,137 @@
+# Just change the font of a particular label of the plot
+
+# Link: You need to set font family using pyplot of matplotlib.
+import matplotlib.pyplot as plt
+csfont = {'fontname':'Times New Roman'}
+// write your code related to basemap here
+plt.title('title',**csfont)
+plt.show()
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Change the font globally
+import matplotlib.pyplot as plt
+plt.rcParams["font.family"] = "Times New Roman"
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Change font size generally:
+
+# Link: https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
+font = {'family' : 'normal',
+        'weight' : 'bold',
+        'size'   : 22}
+
+matplotlib.rc('font', **font)
+
+or 
+
+matplotlib.rcParams.update({'font.size': 22})
+
+or
+
+import matplotlib.pyplot as plt
+plt.rcParams.update({'font.size': 22})
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Set font size individually
+
+# Second answer from link: https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
+import matplotlib.pyplot as plt
+
+SMALL_SIZE = 8
+MEDIUM_SIZE = 10
+BIGGER_SIZE = 12
+
+plt.rc('font', size=SMALL_SIZE)          # controls default text sizes
+plt.rc('axes', titlesize=SMALL_SIZE)     # fontsize of the axes title
+plt.rc('axes', labelsize=MEDIUM_SIZE)    # fontsize of the x and y labels
+plt.rc('xtick', labelsize=SMALL_SIZE)    # fontsize of the tick labels
+plt.rc('ytick', labelsize=SMALL_SIZE)    # fontsize of the tick labels
+plt.rc('legend', fontsize=SMALL_SIZE)    # legend fontsize
+plt.rc('figure', titlesize=BIGGER_SIZE)  # fontsize of the figure title
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Add individual labels to data
+
+# Some answer near the bottom of the link: https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
+import matplotlib.pyplot as plt
+plt.style.use('seaborn-whitegrid')
+
+label = [1,2,3,4,5,6,7,8]
+x = [0.001906,0.000571308,0.0020305,0.0037422,0.0047095,0.000846667,0.000819,0.000907]
+y = [0.2943301,0.047778308,0.048003167,0.1770876,0.532489833,0.024611333,0.157498667,0.0272095]
+
+
+plt.ylabel('eigen centrality')
+plt.xlabel('betweenness centrality')
+plt.text(0.001906, 0.2943301, '1 ', ha='right', va='center')
+plt.text(0.000571308, 0.047778308, '2 ', ha='right', va='center')
+plt.text(0.0020305, 0.048003167, '3 ', ha='right', va='center')
+plt.text(0.0037422, 0.1770876, '4 ', ha='right', va='center')
+plt.text(0.0047095, 0.532489833, '5 ', ha='right', va='center')
+plt.text(0.000846667, 0.024611333, '6 ', ha='right', va='center')
+plt.text(0.000819, 0.157498667, '7 ', ha='right', va='center')
+plt.text(0.000907, 0.0272095, '8 ', ha='right', va='center')
+plt.rcParams["font.family"] = "Times New Roman"
+plt.rcParams["font.size"] = "50"
+plt.plot(x, y, 'o', color='blue')
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Import predefined properties from JSON Files
+# An answer near the bottom of the link: https://stackoverflow.com/questions/3899980/how-to-change-the-font-size-on-a-matplotlib-plot
+
+# Python code:
+import json
+from matplotlib import pyplot as plt, rcParams
+
+s = json.load(open("example_file.json")
+rcParams.update(s)
+
+# JSON file content:
+{
+  "lines.linewidth": 2.0,
+  "axes.edgecolor": "#bcbcbc",
+  "patch.linewidth": 0.5,
+  "legend.fancybox": true,
+  "axes.color_cycle": [
+    "#348ABD",
+    "#A60628",
+    "#7A68A6",
+    "#467821",
+    "#CF4457",
+    "#188487",
+    "#E24A33"
+  ],
+  "axes.facecolor": "#eeeeee",
+  "axes.labelsize": "large",
+  "axes.grid": true,
+  "patch.edgecolor": "#eeeeee",
+  "axes.titlesize": "x-large",
+  "svg.fonttype": "path",
+  "examples.directory": ""
+}
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Saving a plot and defining some Details
+
+import matplotlib.pyplot as plt
+import numpy as np
+
+fig = plt.figure(figsize=(4,3))
+ax = fig.add_subplot(111)
+x = np.linspace(0,6.28,21)
+ax.plot(x, np.sin(x), '-^', label="1 Hz")
+ax.set_title("Oscillator Output")
+ax.set_xlabel("Time (s)")
+ax.set_ylabel("Output (V)")
+ax.grid(True)
+ax.legend(loc=1)
+fig.savefig('Basic.png', dpi=300)
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #

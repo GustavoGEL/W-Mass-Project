@@ -1,0 +1,9 @@
+Root is not exactly C, but may be used as:
+
+int a = 1
+int b = 2
+a + b
+
+# When using root
+
+Can use emacs as the code editor
