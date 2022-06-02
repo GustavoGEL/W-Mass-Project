@@ -1,0 +1,12 @@
+pt and no photons regardless
+
+Case: Optimal mass [GeV/c^2], Chi square value
+DoF(Degrees of Freedom, n hist bins − parms f it) = 98
+$P_{T, Bare/Born Muon}$ W mass|||||Mass (GeV)|||||Case
+
+Bare muon (Reference);;0a: 80.37698±0.01206, 0.03824151148052093
+Bare and photos;;0ap: 80.37178±0.01203, 0.534243387112457
+Bare and herwig;;0ah: 80.37154±0.01204, 0.552276621180012
+Born muon (Reference);;0b: 80.37612±0.01192, 0.4180408261103918
+Born and photos;;0bp: 80.37128±0.0119, 3.080643772021717
+Born and herwig;;0bh: 80.37166±0.01191, 2.676473370937906
