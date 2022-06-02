@@ -1,8 +1,0 @@
-FinalFigures/Born_Muon_0_photon_PT_report.png and FinalFigures/Born_Muon_0_photon_PT_summary.png
-Mean [GeV], uncertainty [GeV], Min mass [GeV], Max mass [GeV]
-80.34773632812502, 0.0018326286922259946, 80.34524, 80.3496
-Average normalised residual, Uncertainty of norm res, minimum normalised residual, maximum normalised residual
--0.0009882827012082929, 0.1433014378739256, -0.19579044117799463, 0.14480744949276056
-0: 'Born and herwig' as '0bh', with 80.34835\pm0.01278, norm residual of '0.04801814358160918' and chi squared fit of 49.486771177739556
-1: 'Born and photos' as '0bp', with 80.34524\pm0.01275, norm residual of '-0.19579044117799463' and chi squared fit of 48.25059657075886
-2: 'Born muon (Reference)' as '0b', with 80.3496\pm0.01287, norm residual of '0.14480744949276056' and chi squared fit of 361.02737216484286
