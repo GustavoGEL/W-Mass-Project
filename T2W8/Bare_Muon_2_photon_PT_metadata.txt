@@ -1,3 +1,0 @@
-Bare_Muon_2_photon_PT_report.png and Bare_Muon_2_photon_PT_summary.png
-Mean [GeV], uncertainty [GeV]
-80.32837241344453, 0.00020241344452642807
