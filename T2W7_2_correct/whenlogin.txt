@@ -1,7 +1,0 @@
-# Load root
-source /cvmfs/lhcb.cern.ch/lib/etc/cern_profile.sh
-source /cvmfs/sft.cern.ch/lcg/views/setupViews.sh LCG_100 x86_64-centos7-gcc10-opt
-
-# Change to corresponding folder and run reference (Bare Muon PT) script
-cd "Bare_muon_pt/1_Reference"
-python3 ./"W_mass_calculator (bare_muon_pt).py"
